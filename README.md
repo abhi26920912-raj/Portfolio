@@ -1,8 +1,8 @@
-# 3D Portfolio Website
+# Abhishek Raj — 3D Portfolio
 
-This repository contains the source code for a personal 3D portfolio built with React, TypeScript, Three.js, React Three Fiber, and GSAP. It includes animated page sections, a character scene, custom cursor interactions, and smooth transitions designed for a modern portfolio experience.
+This repository contains the source code for Abhishek Raj's personal 3D portfolio. Abhishek is a Staff Engineer at Sopra Banking Software with over 9 years of experience in distributed systems and full-stack architecture. The site is built with React, TypeScript, Three.js, React Three Fiber, and GSAP, featuring animated page sections, a 3D character scene, custom cursor interactions, and smooth scroll-driven transitions.
 
-Live site: [https://akashrmalhotra.netlify.app/](https://akashrmalhotra.netlify.app/)
+Live site: [https://abhishekraj.netlify.app/](https://abhishekraj.netlify.app/)
 
 ![Portfolio Preview](public/images/preview1.png)
 
@@ -90,8 +90,8 @@ Live site: [https://akashrmalhotra.netlify.app/](https://akashrmalhotra.netlify.
 1. Clone the repository:
 
    ```bash
-   git clone <your-repository-url>
-   cd 3d-portfolio
+   git clone https://github.com/abhishekraj/portfolio.git
+   cd portfolio
    ```
 
 2. Install dependencies:
