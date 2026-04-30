@@ -8,16 +8,23 @@ Live site: [https://abhishekraj.netlify.app/](https://abhishekraj.netlify.app/)
 
 ## Table of Contents
 
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Available Scripts](#available-scripts)
-- [GSAP License Note](#gsap-license-note)
-- [Customization Guide](#customization-guide)
-- [Troubleshooting](#troubleshooting)
-- [Deployment](#deployment)
-- [License](#license)
+- [Abhishek Raj — 3D Portfolio](#abhishek-raj--3d-portfolio)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Tech Stack](#tech-stack)
+    - [Core](#core)
+    - [Animation and 3D](#animation-and-3d)
+    - [Supporting Libraries](#supporting-libraries)
+  - [Project Structure](#project-structure)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Available Scripts](#available-scripts)
+  - [GSAP License Note](#gsap-license-note)
+  - [Customization Guide](#customization-guide)
+  - [Troubleshooting](#troubleshooting)
+  - [Deployment](#deployment)
+  - [License](#license)
 
 ## Features
 
